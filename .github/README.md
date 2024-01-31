@@ -8,7 +8,7 @@
   <img src="https://graph.org/file/ebb0d85faab06c034ed4c.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/FallenMusicBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟⃝🇺𝐍🄾ғͥғɪᴄͣɪͫ͢͢͢ᴀℓ.🄵𝚁𝙸𝙴𝙽𝙳𝚂 🄲𝙷𝙰𝚃](https://t.me/+OwXlutqNgoUyYzJl)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
