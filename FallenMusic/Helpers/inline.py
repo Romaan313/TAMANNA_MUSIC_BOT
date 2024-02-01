@@ -45,7 +45,7 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -87,15 +87,15 @@ helpmenu = [
     [
         InlineKeyboardButton(
             text="ᴇᴠᴇʀʏᴏɴᴇ",
-            callback_data="fallen_cb help",
+            callback_data="",
         )
     ],
     [
-        InlineKeyboardButton(text="sᴜᴅᴏ", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="sᴜᴅᴏ", callback_data=""),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", callback_data=""),
     ],
     [
-        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_home"),
+        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data=""),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
     ],
 ]
